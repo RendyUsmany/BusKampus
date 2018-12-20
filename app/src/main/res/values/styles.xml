@@ -1,0 +1,47 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="ThemeMapBus" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="ThemeSchedule" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#D65AEE</item>
+        <item name="colorPrimaryDark">#B33EC9</item>
+        <item name="colorAccent">#D65AEE</item>
+    </style>
+
+    <style name="ThemeQuestions" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#7E50F1</item>
+        <item name="colorPrimaryDark">#683DD4</item>
+        <item name="colorAccent">#7E50F1</item>
+    </style>
+
+    <style name="ThemeInformation" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#48D26B</item>
+        <item name="colorPrimaryDark">#36b957</item>
+        <item name="colorAccent">#48D26B</item>
+    </style>
+
+    <style name="ThemeOperator" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#5A9CEE</item>
+        <item name="colorPrimaryDark">@color/DrakBlue</item>
+        <item name="colorAccent">#5A9CEE</item>
+    </style>
+
+    <style name="ThemeSettings" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/DrakBlue</item>
+        <item name="colorPrimaryDark">@color/DarkBlueDark</item>
+        <item name="colorAccent">@color/DrakBlue</item>
+    </style>
+
+</resources>
